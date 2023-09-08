@@ -5,7 +5,7 @@ name = "rust"
 
   [analyzers.meta]
   msrv = "stable"
-  cyclomatic_complexity_threshold = "very-high"
+  cyclomatic_complexity_threshold = "high"
 
 [[transformers]]
 name = "rustfmt"
